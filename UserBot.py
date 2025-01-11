@@ -3,8 +3,8 @@ import os
 import asyncio
 from datetime import datetime
 
-api_id = '29798494'
-api_hash = '53273c1de3e68a9ecdb90de2dcf46f6c'
+api_id = '20957545'
+api_hash = '6a82263a8c76a4b494bbd527f9b14c79'
 
 client = TelegramClient('userbot', api_id, api_hash)
 device_owner_id = None
